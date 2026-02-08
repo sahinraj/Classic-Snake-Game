@@ -2,7 +2,7 @@
 //  SnakeGameView.swift
 //  ClassicSnakeGameByCodex
 //
-//  Created by Codex.
+//  Created by Sahin Raj.
 //
 
 import SwiftUI

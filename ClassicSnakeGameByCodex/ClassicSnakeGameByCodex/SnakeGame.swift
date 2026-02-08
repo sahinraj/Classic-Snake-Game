@@ -2,7 +2,7 @@
 //  SnakeGame.swift
 //  ClassicSnakeGameByCodex
 //
-//  Created by Codex.
+//  Created by Sahin Raj.
 //
 
 import Foundation
